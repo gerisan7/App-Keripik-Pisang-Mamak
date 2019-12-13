@@ -1,0 +1,29 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Keripik Pisang Mamak</string>
+    <string name="first_activity">Profile</string>
+    <string name="second_activity">Galery</string>
+    <string name="map_activitty">Lokasi</string>
+    <string name="third_activity">Order</string>
+    <string name="four_activity">Tentang</string>
+    <string name="name">Name</string>
+    <string name="toppings">Toppings</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Quantity</string>
+    <string name="order">Order</string>
+    <string name="list_view">bebas</string>
+    <!--MainActivity.java file-->
+    <string name="order_summary_whipped_cream">Tambahkan Pisang Keju ? <xliff:g example="true" id="addWhippedCream">%b</xliff:g></string>
+    <string name="order_summary_chocolate">Tambahkan Pisang Chocolate ? <xliff:g example="true" id="addChocolate">%b</xliff:g></string>
+    <string name="order_summary_name">Nama : <xliff:g example="Dana" id="name">%s</xliff:g></string>
+    <string name="order_summary_quantity">Quantity: <xliff:g example="0" id="quantity">%d</xliff:g></string>
+    <string name="order_summary_price">Total: Rp<xliff:g example="Rp10" id="price">%d</xliff:g></string>
+    <string name="thank_you">Terima Kasih!!</string>
+    <string name="order_summary_email_subject">Pesan Keripik Pisang <xliff:g example="Dana" id="name">%s</xliff:g></string>
+
+    <!--Toast messages-->
+    <string name="less_than_1_coffee">You can\'t have less than a coffee!</string>
+    <string name="more_than_100_coffees">You can\'t have more than 100 coffees!</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
